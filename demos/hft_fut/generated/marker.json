@@ -1,0 +1,9 @@
+{
+    "marks": [
+        "pyhft_IF"
+    ],
+    "channels": [
+        "simnow"
+    ],
+    "engine": "HFT"
+}
